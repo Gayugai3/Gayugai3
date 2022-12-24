@@ -12,6 +12,13 @@ I am a Trained Resource in Full Stack Development, Certified from GUVI, IITM Res
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gayugai3&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gayugai3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Gayugai3&theme=matrix&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Gayugai3&icon=0&color=12)](https://visitcount.itsvg.in)
 
